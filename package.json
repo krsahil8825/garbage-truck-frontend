@@ -1,0 +1,10 @@
+{
+    "name": "garbage-truck-monitoring",
+    "version": "1.0.0",
+    "description": "A platform to monitor garbage trucks in real-time.",
+    "scripts": {
+      "build": "npx tailwindcss -i ./src/input.css -o ./public/styles/main.css --watch"
+    },
+    "dependencies": {}
+  }
+  
